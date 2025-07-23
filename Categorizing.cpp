@@ -18,7 +18,7 @@ using namespace std;
 const int MAX_SIZE = 100;
 
 void inputArray(int arr[], int &n) {
-    cout << "Enter number of elements (max " << MAX_SIZE << "): ";
+    cout << "Enter number of elements (max " << MAX_SIZE << "): " << endl;
     cin >> n;
 
     if (n > MAX_SIZE || n <= 0) {
