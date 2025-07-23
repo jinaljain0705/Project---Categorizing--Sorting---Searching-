@@ -165,7 +165,7 @@ int main() {
 }
 ```
 Output:
-![categorizing]()
+![categorizing](https://github.com/jinaljain0705/Project---Categorizing--Sorting---Searching-/blob/main/Output/Output-1.png)
 ![categorizing]()
 ![categorizing]()
 Out
